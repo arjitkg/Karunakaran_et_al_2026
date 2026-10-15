@@ -1,0 +1,13 @@
+﻿Brain,Genotype,Sex,Age,Starvation_start_time,Recording,Recording_type,Recording_start_time,Stimulus,Recording_FPS,Video_FPS,Imaging_start_frame,Imaging_stop_frame,feeding_bout_1_start_frame,feeding_bout_1_stop_frame,Feeding,Emesis
+AKG_B30,TH(D4)>GCaMP6m,Female,"20,21","16/05/2026, 10:00",R1,Functional,"17/05/2026, 10:51",NHS60,,15,61,31474,3256,7798,Yes,Yes
+AKG_B31,TH(D4)>GCaMP6m,Female,"20,21","16/05/2026, 11:30",R1,Functional,"17/05/2026, 12:20",NHS60,,15,81,32397,3278,7841,Yes,No
+AKG_B32,TH(D4)>GCaMP6m,Female,"20,21","16/05/2026, 13:00",R1,Functional,"17/05/2026, 14:19",NHS60,,15,63,31542,3334,7746,Yes,No
+AKG_B33,TH(D4)>GCaMP6m,Female,"20,21","16/05/2026, 14:30",R1,Functional,"17/05/2026, 16:51",NHS60,,15,99,31602,3504,8022,Yes,No
+AKG_B34,TH(D4)>GCaMP6m,Female,"20,21","16/05/2026, 16:00",R1,Functional,"17/05/2026, 18:52",NHS60,,15,0,32396,3283,7787,Yes,No
+AKG_B35,TH(D4)>GCaMP6m,Female,"20,21","16/05/2026, 17:30",R1,Functional,"17/05/2026, 22:46",Sucrose,,15,199,31667,3355,7860,Yes,No
+AKG_B36,TH(D4)>GCaMP6m,Female,"20,21","16/05/2026, 19:00",R1,Functional,"18/05/2026, 00:18",Sucrose,,15,66,31553,3204,7788,Yes,No
+AKG_B37,TH(D4)>GCaMP6m,Female,"20,21","16/05/2026, 20:30",R1,Functional,"18/05/2026, 01:57",Sucrose,,15,66,32397,3305,7904,Yes,No
+AKG_B38,TH(D4)>GCaMP6m,Female,"20,21","16/05/2026, 22:00",R1,Functional,"18/05/2026, 03:28",Sucrose,,15,0,32397,3505,8141,Yes,No
+AKG_B40,TH(D4)>GCaMP6m,Female,"24,25","17/05/2026, 18:05",R1,Functional,"18/05/2026, 18:29",NHS60,,30,214,63212,6997,16097,Yes,Yes
+AKG_B41,TH(D4)>GCaMP6m,Female,"24,25","17/05/2026, 15:15",R1,Functional,"18/05/2026, 20:22",NHS60,,30,142,63134,7448,16925,Yes,No
+AKG_B42,TH(D4)>GCaMP6m,Female,"24,25","17/05/2026, 21:33",R1,Functional,"18/05/2026, 21:57",Sucrose,,30,153,63148,8018,16750,Yes,No
