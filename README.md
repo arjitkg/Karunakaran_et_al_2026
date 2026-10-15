@@ -1,4 +1,4 @@
-This repository contains motion-corrected calcium imaging data (gamma1 pedunculus only) and analysis codes for Karunakaran et al., 2026 manuscript.
+This repository contains calcium imaging data analysis codes for Karunakaran et al., 2026 manuscript.
 
 ______________________________________________________________________________________________
 
